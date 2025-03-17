@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Web and Mobile App Developer
 --------------------------------------
 
-I'm a dedicated Mobile App Developer and Frontend Web Developer with a deep passion for creating intuitive digital experiences. With expertise in building mobile applications using Flutter and crafting responsive web interfaces using React, I aim to merge creativity with functionality to deliver impactful solutions. Fun fact: I hold a CEH (Certified Ethical Hacker) certification and am passionate about blending my development skills with cybersecurity knowledge.
+I'm a dedicated Data Engineer and Mobile App Developer with a deep passion for creating intuitive digital experiences and robust data solutions. With expertise in building mobile applications using Flutter and designing scalable data pipelines using tools like Apache Airflow, AWS S3, MWAA, RDS, DynamoDB, and Redshift, I aim to merge creativity with functionality to deliver impactful solutions. Fun fact: I hold a CEH (Certified Ethical Hacker) certification and am passionate about blending my development skills with cybersecurity knowledge to ensure secure and efficient systems.
 
 * ✉️  You can contact me at [andrewmarfo23@gmail.com](mailto:andrewmarfo23@gmail.com)
 * 🧠  I'm learning advanced React techniques and diving deeper into the world of cybersecurity.
