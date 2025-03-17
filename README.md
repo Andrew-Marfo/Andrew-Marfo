@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Marfo
 ====================================================================================================================================
 
-Front-End Web and Mobile App Developer
+Data Engineeer and Mobile App Developer
 --------------------------------------
 
 I'm a dedicated Data Engineer and Mobile App Developer with a deep passion for creating intuitive digital experiences and robust data solutions. With expertise in building mobile applications using Flutter and designing scalable data pipelines using tools like Apache Airflow, AWS S3, MWAA, RDS, DynamoDB, and Redshift, I aim to merge creativity with functionality to deliver impactful solutions. Fun fact: I hold a CEH (Certified Ethical Hacker) certification and am passionate about blending my development skills with cybersecurity knowledge to ensure secure and efficient systems.
